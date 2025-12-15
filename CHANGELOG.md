@@ -1,6 +1,12 @@
 # `egui_tiles` Changelog
 
 
+## 0.14.1 - 2025-12-15
+Full diff at https://github.com/rerun-io/egui_tiles/compare/0.14.0..HEAD
+
+* Use the next active tab when iterating active tiles [#111](https://github.com/rerun-io/egui_tiles/pull/111) by [@IsseW](https://github.com/IsseW)
+
+
 ## 0.14.0 - 2025-10-10
 Full diff at https://github.com/rerun-io/egui_tiles/compare/0.13.0..HEAD
 
